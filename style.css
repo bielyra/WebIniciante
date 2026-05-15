@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+h2{
+    background-color: #e7e7e7;
+    padding: 10px;
+    border-radius: 5px;
+    flex: 1;
+}
